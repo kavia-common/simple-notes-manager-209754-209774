@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f77a549f-c0a3-4e32-916e-4ca19a1df8a7",
+    "title": "Welcome to Notes",
+    "content": "This is your first note. Feel free to edit or delete it.",
+    "createdAt": "2025-11-20T12:04:54.231Z",
+    "updatedAt": "2025-11-20T12:04:54.231Z"
+  },
+  {
+    "id": "795b6ba7-2116-4b2a-af89-a01d723aa1cb",
+    "title": "Second Note",
+    "content": "Add as many notes as you like. The API supports full CRUD.",
+    "createdAt": "2025-11-20T12:04:54.231Z",
+    "updatedAt": "2025-11-20T12:04:54.231Z"
+  }
+]
